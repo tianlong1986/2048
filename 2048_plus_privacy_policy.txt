@@ -1,0 +1,9 @@
+2048 Plus Privacy Policy
+
+Privacy Policy:
+This Privacy Policy defines how we read and write user's external storage in our mobile application.
+
+Personal Data:
+2048 Plus respects your privacy rights.
+ 
+2048 Plus do not collect any personal user data. 2048 Plus only write a file which save current game progress when user click Backup in Settings, and read the file user saved  when user click Restore in Settings to recovery game progress.
